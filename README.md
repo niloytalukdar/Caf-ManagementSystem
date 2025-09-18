@@ -1,1 +1,73 @@
-# Caf-ManagementSystem
+☕ Café Management System
+
+A **Java Object-Oriented Programming (OOP)** based project that simulates a café management system.  
+This project was developed as part of my **CSE 1115 (Object-Oriented Programming)** course at **Premier University**.
+
+🚀 Features
+- 📋 **Menu Management** – Add, display, and manage café items.  
+- 💰 **Billing System** – Calculate total bills with itemized details.  
+- 👤 **Customer Interaction** – Take customer orders dynamically.  
+- 🔄 **OOP Concepts** – Implements classes, objects, inheritance, encapsulation, and polymorphism.  
+- 🧩 **Modular Code** – Easy to extend and maintain.  
+
+🛠️ Technologies Used
+- **Java** (Core & OOP principles)  
+- **Object-Oriented Design**  
+- **IntelliJ IDEA / NetBeans / Eclipse** (any Java IDE)  
+
+📂 Project Structure
+
+
+CaféManagementSystem.java   # Main source code
+
+
+📸 Preview (Console Output Example)
+
+## Welcome to Café Management System!
+
+Menu:
+
+1. Coffee - 100 BDT
+2. Tea - 50 BDT
+3. Sandwich - 150 BDT
+
+Enter your choice: 1
+Enter quantity: 2
+
+Your total bill: 200 BDT
+Thank you for visiting our café!
+
+🎯 Learning Outcomes
+- Applied **Object-Oriented Programming (OOP)** principles in Java.  
+- Understood **real-world application** of inheritance, encapsulation, and polymorphism.  
+- Designed a **user-interactive system** with modular code.  
+
+
+
+## 📖 How to Run
+1. Clone this repository:
+   ```bash
+   git clone https://github.com/your-username/Cafe-Management-System.git
+````
+
+2. Open the project in your Java IDE.
+3. Compile and run:
+
+   ```bash
+   javac CaféManagementSystem.java
+   java CaféManagementSystem
+   ```
+
+🌟 Future Improvements
+
+* Add a **GUI interface** (JavaFX or Swing).
+* Implement a **database (MySQL/SQLite)** to store menu and orders.
+* Add **admin panel** for managing menu items.
+
+👨‍💻 Author
+
+**Niloy Talukder**
+
+* 🎓 Computer Science Student, Premier University
+* 🔮 Aspiring **AI/ML Engineer** & **Full Stack Developer**
+* 🌐 [LinkedIn](www.linkedin.com/in/niloytalukdar) | [GitHub](https://github.com/niloytalukdar)
